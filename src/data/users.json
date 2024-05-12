@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2,
+    "name": "Teste",
+    "email": "teste@teste.com",
+    "password": "12345",
+    "avatar": "1e0d1df2-d697-4131-a221-35789acaea42.jpeg",
+    "role": "ADMIN"
+  },
+  {
+    "id": 2,
+    "name": "Teste",
+    "email": "teste2@teste.com",
+    "password": "$2b$07$4W4aaW5qI.Rb2/d44vhKFuWeaWmyJm6ZKC9Z8H0RldTJwHmvEifh.",
+    "avatar": "089443c7-f3ae-45d7-a394-65aa79f42dca.jpeg",
+    "role": "ADMIN"
+  }
+]

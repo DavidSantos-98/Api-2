@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "test",
+    "image": "no-image.jpg"
+  },
+  {
+    "id": 2,
+    "title": "",
+    "price": "",
+    "description": "",
+    "category": "",
+    "image": "no-image.jpg"
+  },
+  {
+    "id": 3,
+    "title": "test",
+    "price": "1222",
+    "description": "test",
+    "category": "qqq",
+    "image": "no-image.jpg"
+  },
+  {
+    "id": 4,
+    "title": "test",
+    "price": "1222",
+    "description": "test",
+    "category": "qqq",
+    "image": "a5b916c5-4dad-498e-a28c-1ba1e0bdb2fb.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Qwe",
+    "price": "123",
+    "description": "qwe",
+    "category": "qwe",
+    "image": "4ce3e3c9-0f71-4a0b-bcbd-aa3590304378.webp"
+  },
+  {
+    "id": 6,
+    "title": "test",
+    "price": "1222",
+    "description": "test",
+    "category": "qqq",
+    "image": "c7448726-57c1-4968-8afe-9c7d9247bd49.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "test",
+    "price": "1222",
+    "description": "test",
+    "category": "qqq",
+    "image": "159fe09f-9e04-4021-863d-8a122791d60c.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "test",
+    "price": "1222",
+    "description": "test",
+    "category": "qqq",
+    "image": "2a5f664b-f465-42da-9632-f90adcc3ac88.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "test",
+    "price": "1222",
+    "description": "test",
+    "category": "qqq",
+    "image": "90526b1d-d868-44eb-9665-2b74e79ced39.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "test",
+    "price": "1222",
+    "description": "test",
+    "category": "qqq",
+    "image": "0db35f40-e6e1-4baa-87ad-a9f7a03f3d4f.jpeg"
+  }
+]
